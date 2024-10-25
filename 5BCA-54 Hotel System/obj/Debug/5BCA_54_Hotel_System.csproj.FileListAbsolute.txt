@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\bin\Debug\5BCA-54 Hotel System.exe.config
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\bin\Debug\5BCA-54 Hotel System.exe
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\bin\Debug\5BCA-54 Hotel System.pdb
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\bin\Debug\AMRConnector.dll
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\5BCA_54_Hotel_System.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.FormDashboard.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.FormLogin.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.User_Control.UserControlSetting.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\5BCA_54_Hotel_System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\5BCA_54_Hotel_System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\5BCA_54_.D04B97CA.Up2Date
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\5BCA-54 Hotel System.exe
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\5BCA-54 Hotel System.pdb
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.User_Control.UserControlClient.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.User_Control.UserControlRoom.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.User_Control.UserControlReservation.resources
+C:\Users\ASUS\source\repos\5BCA-54 Hotel System\5BCA-54 Hotel System\obj\Debug\_5BCA_54_Hotel_System.User_Control.UserControlDashboard.resources
